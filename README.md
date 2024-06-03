@@ -3,8 +3,7 @@ Relatório do Trabalho final da disciplina de Programação para dispositivos m�
 
 > 0. Integrantes do grupo
 
-Aluno: Matheus Biesdorf, 
-RGA: 2020.1904.050-3
+Aluno: Matheus Biesdorf (2020.1904.050-3)
 
 > 1. Visão Geral do Software 
 
