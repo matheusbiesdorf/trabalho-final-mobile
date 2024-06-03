@@ -1,7 +1,9 @@
 # trabalho-final-mobile
 Relatório do Trabalho final da disciplina de Programação para dispositivos móveis
 
-Aluno: Matheus Biesdorf
+> 0. Integrantes do grupo
+
+Aluno: Matheus Biesdorf, 
 RGA: 2020.1904.050-3
 
 > 1. Visão Geral do Software 
